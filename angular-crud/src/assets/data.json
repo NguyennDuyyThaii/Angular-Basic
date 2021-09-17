@@ -1,0 +1,5 @@
+{
+    "students": [
+        { "id": 1, "name": "json-server", "age": "12", "mobile": "IPhone12", "email": "thaindph09550", "address": "ThaiBinh" }
+    ]
+}
